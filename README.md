@@ -1,0 +1,3 @@
+# angular-events
+Adds support for some minor events into angular such as mouse-wheel etc...
+
